@@ -1,7 +1,7 @@
-package com.jeevan.demo.controller;
+package com.ecom.backend.controller;
 
-import com.jeevan.demo.model.Product;
-import com.jeevan.demo.service.ProductService;
+import com.ecom.backend.model.Product;
+import com.ecom.backend.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

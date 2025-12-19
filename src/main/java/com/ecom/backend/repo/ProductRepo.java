@@ -1,6 +1,6 @@
-package com.jeevan.demo.repo;
+package com.ecom.backend.repo;
 
-import com.jeevan.demo.model.Product;
+import com.ecom.backend.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
-package com.jeevan.demo.service;
-import com.jeevan.demo.model.Product;
-import com.jeevan.demo.repo.ProductRepo;
+package com.ecom.backend.service;
+import com.ecom.backend.model.Product;
+import com.ecom.backend.repo.ProductRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
